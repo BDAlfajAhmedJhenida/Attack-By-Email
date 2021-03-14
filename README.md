@@ -59,3 +59,20 @@ $python2 emailbomber.py
 
 ![received_278414703911701](https://user-images.githubusercontent.com/79386629/111058216-11f3bd00-84b7-11eb-9c45-11933264d8c3.jpeg)
 
+<h6> : email set
+  
+  1 Attack gmail Address : your gmail address 
+  
+  2 Anonymous name : yuor any name
+  
+  3 password : your gmail password 
+  
+  4 To : target gmail
+  
+   
+ 5 Message: any message 
+ 
+ 6 Number of send: Your wish number
+  
+  
+  
