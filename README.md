@@ -74,5 +74,9 @@ $python2 emailbomber.py
  
  6 Number of send: Your wish number
   
+ 
+ <h6> : Gmail Setting 
   
+  ![USER_SCOPED_TEMP_DATA_orca-image-1615712213426_6776788199625418750](https://user-images.githubusercontent.com/79386629/111062887-ef24d100-84d5-11eb-8bab-394576dd1864.jpeg)
+
   
