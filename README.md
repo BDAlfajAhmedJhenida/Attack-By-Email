@@ -55,7 +55,7 @@ $python2 emailbomber.py
 
 ✤ •*`*•.¸¸.•*`*•.¸¸✽✤ •*`*•.¸¸.•*`*•.¸¸✽
 
-<h5> : photo 
+<h5> : photo Pic trucks 
 
-![Uploading 20210314_100358.png…]()
+![received_278414703911701](https://user-images.githubusercontent.com/79386629/111058216-11f3bd00-84b7-11eb-9c45-11933264d8c3.jpeg)
 
